@@ -12,4 +12,4 @@ This will show you actual data in json format serialized from database.
 
 provide username as "kishor" and url as "jdbc:h2:mem:bookdb" and then connect. You will able to see table structure and data.
 
-3. Hit http://localhost:8080/getBook/Java%20Book and it will return all details in json format for title Java Book.
+3. Hit http://localhost:8080/getBook/Java%20book and it will return all details in json format for title Java Book.
