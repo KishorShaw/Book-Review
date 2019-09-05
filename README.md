@@ -4,7 +4,7 @@ We used Mockito Junit test framework to test API which takes title parameter.
 
 EXECUTION:
 
-1. After Successful compilation open your browser and hit http://localhost:8080/book/get
+1. After Successful execution, open your browser and hit http://localhost:8080/book/get
 
 This will show you actual data in json format serialized from database.
 
