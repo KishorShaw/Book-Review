@@ -1,1 +1,3 @@
-# json-parse
+Parsing a JSON file and insert all data in a H2 database using Spring Boot JPA. The JSON file contains details about books and its reviews from reviewers. We need to insert details of a book corresponding to its review details to the database. Moreover we have provided two API operations. One to get total JSON list converted from database object which reproduces the original JSON file and another API which takes "title"(Book's Title) as HTTP request parameter and gives a response JSON of only that book details and its review details as well.
+
+We used Mockito Junit test framework to test API which takes title parameter.
